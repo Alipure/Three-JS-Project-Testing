@@ -1,1 +1,1 @@
-# Three-JS-Project-Testing
+# Testing purposes
